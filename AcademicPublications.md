@@ -1,9 +1,6 @@
 ---
+Title: Academic Publications
 ---
-
-# Academic Publications
-
-Test
 
 # Selected List of Publications
 Test
