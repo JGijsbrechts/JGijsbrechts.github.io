@@ -1,5 +1,6 @@
 ---
 Title: Academic Publications
+Subtitle: Test subtitle
 ---
 
 # Selected List of Publications
