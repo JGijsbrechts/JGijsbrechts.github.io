@@ -11,17 +11,20 @@ title: Joren Gijsbrechts
 # Your name to show in the footer
 author: Joren Gijsbrechts
 
+paginate_path: "/blog/page:num/"
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "https://jgijsbrechts.github.io/"
   About Me: "aboutme"
   Publications: 
     - Academic Publications: "AcademicPublications"
     - Book Chapters: "BookChapters"
   Teaching: "Teaching"
-  #Blog: "Blog"
+  Blog: "blog"
   Public Speaking: "PublicSpeaking"
-  Author's Blog: "https://jgijsbrechts.github.io/"
+  
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
