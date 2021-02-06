@@ -14,14 +14,17 @@ author: Joren Gijsbrechts
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Author's home: "https://jgijsbrechts.github.io/"
   About Me: "aboutme"
   Publications: 
     - Academic Publications: "AcademicPublications"
-    - Book Chapters: "BookChapters" 
+    - Book Chapters: "BookChapters"
+  Blog: "Blog"
+  Public Speaking: "PublicSpeaking"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://www.clsbe.lisboa.ucp.pt/person/joren-gijsbrechts"
+ 
 
 # --- Logo --- #
 
