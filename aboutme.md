@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: Assistant Professor in Operations Management
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My research centers around the question: "How to go from data to decision in this era of Big Data?"
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have a strong affinity for the recent developments in Prescriptive Analytics. Working with and within the consumer goods industry has inspired me to close the gaps to transition towards wide industry adoption of these methods in Operations and Supply Chain Management. In my research I am currently combining Machine Learning and (Robust) Optimization to develop robust and interpretable data-driven algorithms.
 
-What else do you need?
+In addition to research projects I am providing lectures and workshops on Supply Chain Analytics to undergraduate, graduate and executive students.
 
-### My story
+I provide keynote presentations on:
+- Deep Learning and Artificial Intelligence in Supply Chain Management - Hype or Here to Stay?
+- From Data to Decision - Smart, Robust and Interpretable Learning Algorithms. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
