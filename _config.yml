@@ -17,10 +17,10 @@ navbar-links:
   About Me: "aboutme"
   Publications: 
     - Academic Publications: "AcademicPublications"
-    - Book Chapters: "AcademicPublications"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Book Chapters: "BookChapters" 
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://www.clsbe.lisboa.ucp.pt/person/joren-gijsbrechts"
 
 # --- Logo --- #
@@ -44,11 +44,11 @@ round-avatar: true
 social-network-links:
   email: "jgijsbrechts[@]ucp.pt"
 #  github: daattali
-  twitter: @GijsbrechtsJ
+  twitter: GijsbrechtsJ
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
-  linkedin: www.linkedin.com/in/joren-gijsbrechts
+  linkedin: joren-gijsbrechts
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
