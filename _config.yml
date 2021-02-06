@@ -26,6 +26,9 @@ navbar-links:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
  
+# To decide what is first page
+paginate_path: "aboutme"
+
 
 # --- Logo --- #
 
