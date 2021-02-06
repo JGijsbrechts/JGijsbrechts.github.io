@@ -14,20 +14,18 @@ author: Joren Gijsbrechts
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Author's home: "https://jgijsbrechts.github.io/"
   About Me: "aboutme"
   Publications: 
     - Academic Publications: "AcademicPublications"
     - Book Chapters: "BookChapters"
   Teaching: "Teaching"
-  Blog: "Blog"
+  #Blog: "Blog"
   Public Speaking: "PublicSpeaking"
+  Author's Blog: "https://jgijsbrechts.github.io/"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
  
-# To decide what is first page
-paginate_path: "aboutme.md"
 
 
 # --- Logo --- #
