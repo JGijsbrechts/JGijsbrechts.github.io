@@ -19,6 +19,7 @@ navbar-links:
   Publications: 
     - Academic Publications: "AcademicPublications"
     - Book Chapters: "BookChapters"
+  Teaching: "Teaching"
   Blog: "Blog"
   Public Speaking: "PublicSpeaking"
   #Resources:
