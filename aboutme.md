@@ -1,5 +1,8 @@
-
-# Assistant Professor in Operations Management
+---
+layout: page
+title: About Me
+subtitle: Assistant Professor in Operations Management
+---
 
 My research centers around the question: "How to go from data to decision in this era of Big Data?"
 
