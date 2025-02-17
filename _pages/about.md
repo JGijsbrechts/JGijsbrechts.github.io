@@ -6,8 +6,8 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic_joren_cropped.jpg
-  image_circular: false # crops the image to make it circular
+  image: Joren_Rounded_Corners.png
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>joren.gijsbrechts[at]esade.edu</p>
     <p>Office: 304E (SC Campus)</p>
