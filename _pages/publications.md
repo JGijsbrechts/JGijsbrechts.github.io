@@ -5,6 +5,7 @@ title: Publications
 description: 
 nav: true
 nav_order: 2
+header_image: /assets/img/papers.jpg
 ---
 
 <!-- _pages/publications.md -->

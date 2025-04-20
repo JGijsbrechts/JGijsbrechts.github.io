@@ -5,7 +5,7 @@
     "image": "",
     "email": "joren.gijsbrechts@esade.edu",
     "url": "https://jgijsbrechts.github.io",
-    "summary": "I am an Assistant Professor at Esade Business School, Ramon Llull University. My research centers around the question: ``How to go from data to decision in this era of Big Data?'' ",
+    "summary": "As an Assistant Professor of Operations Management at Esade Business School, I create algorithms that translate complex datasets into actionable decisions. I also deliver custom talks on AI, analytics, and Supply Chain 4.0. ",
     "profiles": [
       {
         "network": "Google Scholar",
@@ -92,7 +92,7 @@
     {
       "name": "Optimal Robust Inventory Management with Volume Flexibility: Matching Capacity and Demand with the Lookahead Peak-Shaving Policy",
       "authors": "Gijsbrechts J, Imdahl C, Boute RN, Van Mieghem J",
-      "publisher": "Production and Operations Management",
+      "publisher": "Production and Operations Management 32(11):3357--3373 (2023)",
       "releaseDate": "2023",
       "url": "https://doi.org/10.1111/poms.14069",
       "summary": ""

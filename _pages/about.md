@@ -27,9 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor at [Esade Business School](https://www.esade.edu/en), Ramon Llull University. My research centers around the question: "How to go from data to decision in this era of Big Data?"
+I’m an Assistant Professor of Operations Management at [Esade Business School](https://www.esade.edu/en).
 
-I have a strong affinity for the recent developments in Prescriptive Analytics. Working with and within the consumer goods industry has inspired me to close the gaps to transition towards wide industry adoption of these methods in Operations and Supply Chain Management. In my research I am currently combining Machine Learning and (Robust) Optimization to develop data-driven algorithms.
+My research helps organizations translate Big Data into practical decisions by applying recent advances in optimization and AI. While I focus primarily on the consumer goods industry, I also collaborate with telecommunications firms and online retail start‑ups. I deliver tailored talks on AI, analytics, and Supply Chain 4.0. 
 
-You can download my [CV](assets/pdf/CV_Joren.pdf) for more details.
-
+You can download my [CV](assets/pdf/CV_Joren.pdf) and [Speaker Bio](assets/pdf/Speaker_Bio.pdf) for more information.
