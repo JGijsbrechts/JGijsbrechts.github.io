@@ -16,19 +16,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-public-speaking",
+          title: "Public Speaking",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/custom/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-image-galleries",
       
@@ -387,6 +394,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-continuing-my-journey-as-an-assistant-professor-at-esade-business-school-in-barcelona-spain",
           title: 'Continuing my journey as an Assistant Professor at Esade Business School, in Barcelona,...',
+          description: "",
+          section: "News",},{id: "news-big-life-update-i-became-a-father",
+          title: 'Big life update: I became a father!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
