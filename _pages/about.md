@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m an Assistant Professor of Operations Management at [Esade Business School](https://www.esade.edu/en).
+I’m an Associate Professor of Operations Management at [Esade Business School](https://www.esade.edu/en).
 
 My research helps organizations translate Big Data into practical decisions by applying recent advances in optimization and AI. While I focus primarily on the consumer goods industry, I also collaborate with telecommunications firms and online retail start‑ups. I deliver tailored talks on AI, analytics, and Supply Chain 4.0. 
 
