@@ -168,6 +168,46 @@
       "releaseDate": "2024",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4911622",
       "summary": ""
+    },
+    {
+      "name": "AI in Inventory Management: The Disruptive Era of DRL and Beyond",
+      "authors": "Gijsbrechts J, Boute RN, Van Mieghem JA, Zhang DJ",
+      "publisher": "AI in Supply Chains: Perspectives from Global Thought Leaders, Springer",
+      "releaseDate": "2025",
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5199616",
+      "summary": ""
+    },
+    {
+      "name": "OM Forum—Supply Chain Management in the AI Era: A Vision Statement from the Operations Management Community",
+      "authors": "Cohen MC, Dai T, Perakis G, Boute RN, Cachon GP, Gijsbrechts J, et al.",
+      "publisher": "Manufacturing & Service Operations Management",
+      "releaseDate": "2026",
+      "url": "https://pubsonline.informs.org/doi/full/10.1287/msom.2025.1065?af=R",
+      "summary": ""
+    },
+    {
+      "name": "Discount Replenishment Opportunities with Limited Capacity: Optimal Policy and Pricing Dynamics",
+      "authors": "De Moor BJ, Boute RN, Creemers S, Gijsbrechts J",
+      "publisher": "European Journal of Operational Research",
+      "releaseDate": "2026",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0377221726003516",
+      "summary": ""
+    },
+    {
+      "name": "The Efficiency Paradox in Agentic AI Workflows: When Optimization Increases the Electricity Bill",
+      "authors": "Gijsbrechts J, van Jaarsveld W",
+      "publisher": "Working paper",
+      "releaseDate": "2026",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6168735",
+      "summary": ""
+    },
+    {
+      "name": "When the Online Store Goes Dark: Customer Responses to a Cyberattack in Grocery Retail",
+      "authors": "Wagner L, Godinho de Matos M, Gijsbrechts J, Amorim P",
+      "publisher": "Working paper",
+      "releaseDate": "2026",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6653138",
+      "summary": ""
     }
   ],
   "languages": [
