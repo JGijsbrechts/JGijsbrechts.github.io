@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Joren Gijsbrechts",
-    "label": "Assistant Professor",
+    "label": "Associate Professor",
     "image": "",
     "email": "joren.gijsbrechts@esade.edu",
     "url": "https://jgijsbrechts.github.io",
-    "summary": "As an Assistant Professor of Operations Management at Esade Business School, I create algorithms that translate complex datasets into actionable decisions. I also deliver custom talks on AI, analytics, and Supply Chain 4.0. ",
+    "summary": "As an Associate Professor of Operations Management at Esade Business School, I create algorithms that translate complex datasets into actionable decisions. I also deliver custom talks on AI, analytics, and Supply Chain 4.0. ",
     "profiles": [
       {
         "network": "Google Scholar",
@@ -28,7 +28,7 @@
     {
       "name": "Esade, Ramon Llull University",
       "location": "Barcelona, Spain",
-      "position": "Assistant Professor",
+      "position": "Associate Professor",
       "url": "https://www.esade.edu",
       "startDate": "2023",
       "endDate": "",
@@ -38,7 +38,7 @@
     {
       "name": "Catolica, Lisbon School of Business & Economics",
       "location": "Lisbon, Portugal",
-      "position": "Assistant Professor",
+      "position": "Associate Professor",
       "url": "https://www.clsbe.lisboa.ucp.pt",
       "startDate": "2020",
       "endDate": "2023",
